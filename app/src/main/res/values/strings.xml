@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonIntegrate</string>
+    <string name="enter_message_here" />
+    <string name="display_message" />
+</resources>
